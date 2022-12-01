@@ -58,3 +58,6 @@ gem "ruby-lsp", "~> 0.0.4", :group => :development
 gem 'devise'
 
 gem 'pry-rails'
+
+gem 'mini_magick'
+gem 'image_processing', '~> 1.2'
